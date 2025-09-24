@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+background-color: antiquewhite;
+padding: 5px;
+margin-top: 5px;
+}
+.nav-item{
+   color: black;
+  font-size: 15px;
+  margin-left: 40PX;
+  text-decoration: none;
+
+}
+.text {
+    width: 90%;
+    color: black;
+    position:absolute;
+    top:40%;
+    left: 50px;
+    font-size: 60px;
+    text-align: center;
+}
